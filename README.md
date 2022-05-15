@@ -1,2 +1,8 @@
 # IceLogicBus
-IceLogicBusis is an Ice40 Hx based systems development board supporting Robust Tile expansion
+#### IceLogicBus is an Ice40 Hx based MidPlane for robust Tile expansion
+
+![IceBusPcb](./IceLogicBus.png)
+#### Ice Logic Bus PCB
+![IceBusPcb](./pcb/IceLogicBus.JPG)
+![IceBusPcb](./pcb/IceLogicBus-top.JPG)
+![IceBusPcb](./pcb/IceLogicBus-bottom.JPG)
