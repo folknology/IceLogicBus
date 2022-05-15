@@ -1,5 +1,5 @@
 # IceLogicBus
-#### IceLogicBus is an Ice40 Hx based MidPlane for robust Tile expansion
+#### IceLogicBus is an Ice40 Hx based MidPlane for robust [Tile](https://github.com/folknology/Tiles) expansion
 
 ![IceBusPcb](./IceLogicBus.png)
 ![IceBusPcb](./IceLogicBus-Schematic.png)
